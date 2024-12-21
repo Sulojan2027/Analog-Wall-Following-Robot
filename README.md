@@ -19,7 +19,7 @@ This project is a collaborative effort by our dedicated team, where each member 
 - [SULOJAN.R](https://github.com/Sulojan2027)
 - [PRAVEEN.V.V.J](https://github.com/john-praveen)
 - [DAYANANTHAN.T](https://github.com/member3)
-- [PIRATHISHANTH.A](https://github.com/member3)
+- [PIRATHISHANTH.A](https://github.com/pirathi2002)
 
 
 ## **Why This Project Matters**
