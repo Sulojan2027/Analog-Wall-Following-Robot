@@ -15,5 +15,12 @@ This repository showcases our **Analog Wall-Following Robot**, a semester projec
 ## **Team Contributions**
 This project is a collaborative effort by our dedicated team, where each member contributed to different aspects of the design, assembly, and testing.
 
+## Credits
+- [SULOJAN.R](https://github.com/Sulojan2027)
+- [PRAVEEN.V.V.J](https://github.com/john-praveen)
+- [DAYANANTHAN.T](https://github.com/member3)
+- [PIRATHISHANTH.A](https://github.com/member3)
+
+
 ## **Why This Project Matters**
 This project demonstrates how fundamental principles of analog electronics can be used to solve complex problems. It serves as a resource for students and enthusiasts interested in exploring the potential of analog systems.
