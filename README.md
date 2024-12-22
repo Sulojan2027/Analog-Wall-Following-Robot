@@ -30,11 +30,6 @@ This project demonstrates how fundamental principles of analog electronics can b
 ![Image 1](Images%20and%20Videos/Image_1.jpg)
 ![Image 2](Images%20and%20Videos/Image_2.jpg)
 
-### Videos
-<video controls width="600">
-  <source src="https://raw.githubusercontent.com/your-username/your-repo-name/main/Images%20and%20Videos/Video_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## **Final Wall Following Robot**
@@ -43,11 +38,7 @@ This project demonstrates how fundamental principles of analog electronics can b
 ![Image 1](Images%20and%20Videos/Image_3.jpg)
 ![Image 2](Images%20and%20Videos/Image_4.jpg)
 
-### Videos
-<video controls>
-  <source src="Images%20and%20Videos/Video_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 
 
