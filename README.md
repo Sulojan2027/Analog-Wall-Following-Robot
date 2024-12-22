@@ -28,6 +28,8 @@ This project demonstrates how fundamental principles of analog electronics can b
 ## **Breadboard Implementation of the Circuit**
 
 ![Image 1](Images%20and%20Videos/Image_1.jpg)
+
+### Generated PWM Signal
 ![Image 2](Images%20and%20Videos/Image_2.jpg)
 
 
