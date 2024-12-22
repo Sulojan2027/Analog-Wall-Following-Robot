@@ -27,8 +27,8 @@ This project demonstrates how fundamental principles of analog electronics can b
 
 ## **Breadboard Implementation of the Circuit**
 ### Photos
-- [Photo 1](breadboard/photo1.jpg)
-- [Photo 2](breadboard/photo2.jpg)
+- [Photo 1](Images and videos/Image_1.jpg)
+- [Photo 2](breadboard/Image_2.jpg)
 
 ### Videos
 - [Video 1](breadboard/video1.mp4)
