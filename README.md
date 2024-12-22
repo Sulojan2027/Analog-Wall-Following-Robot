@@ -26,9 +26,12 @@ This project is a collaborative effort by our dedicated team, where each member 
 This project demonstrates how fundamental principles of analog electronics can be used to solve complex problems. It serves as a resource for students and enthusiasts interested in exploring the potential of analog systems.
 
 ## **Breadboard Implementation of the Circuit**
-### Photos
-- [Photo 1](Images and videos/Image_1.jpg)
-- [Photo 2](breadboard/Image_2.jpg)
+### Images
+- [Image 1](Images%20and%20Videos/Image_1.jpg)
+- [Image 2](Images%20and%20Videos/Image_2.jpg)
+- [Image 3](Images%20and%20Videos/Image_3.jpg)
 
 ### Videos
-- [Video 1](breadboard/video1.mp4)
+- [Video 1](Images%20and%20Videos/Video_1.mp4)
+- [Video 2](Images%20and%20Videos/Video_2.mp4)
+- [Video 3](Images%20and%20Videos/Video_3.mp4)
