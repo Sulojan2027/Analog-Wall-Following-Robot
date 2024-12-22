@@ -32,4 +32,3 @@ This project demonstrates how fundamental principles of analog electronics can b
 
 ### Videos
 - [Video 1](breadboard/video1.mp4)
-- [Video 2](breadboard/video2.mp4)
