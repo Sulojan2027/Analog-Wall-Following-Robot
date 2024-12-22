@@ -24,3 +24,12 @@ This project is a collaborative effort by our dedicated team, where each member 
 
 ## **Why This Project Matters**
 This project demonstrates how fundamental principles of analog electronics can be used to solve complex problems. It serves as a resource for students and enthusiasts interested in exploring the potential of analog systems.
+
+## **Breadboard Implementation of the Circuit**
+### Photos
+- [Photo 1](breadboard/photo1.jpg)
+- [Photo 2](breadboard/photo2.jpg)
+
+### Videos
+- [Video 1](breadboard/video1.mp4)
+- [Video 2](breadboard/video2.mp4)
