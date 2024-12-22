@@ -39,7 +39,7 @@ This project demonstrates how fundamental principles of analog electronics can b
 ![Image 2](Images%20and%20Videos/Image_4.jpg)
 
 #### Robot in Action
-<img src="Images%20and%20Videos/Gif_1.gif" width="600">
+<img src="Images%20and%20Videos/Gif_1.gif" width="1000">
 
 
 
