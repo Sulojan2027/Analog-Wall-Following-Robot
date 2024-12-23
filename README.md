@@ -18,7 +18,7 @@ This project is a collaborative effort by our dedicated team, where each member 
 ## Credits
 - [SULOJAN.R](https://github.com/Sulojan2027)
 - [PRAVEEN.V.V.J](https://github.com/john-praveen)
-- [DAYANANTHAN.T](https://github.com/member3)
+- [DAYANANTHAN.T](https://github.com/Dayananthan2021)
 - [PIRATHISHANTH.A](https://github.com/pirathi2002)
 
 
